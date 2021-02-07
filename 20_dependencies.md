@@ -1,5 +1,15 @@
+---
+title: 20_dependencies
+description: 
+published: true
+date: 2021-02-07T14:54:47.455Z
+tags: 
+editor: markdown
+dateCreated: 2021-02-07T14:53:48.500Z
+---
 
-# Dipendenze
+
+# Dipendenze!
 
 Nel seguito sono descritte le cose che sono necessarie affinchè sia possibile lanciare l'applicativo o compilarlo. Chiaramente è necessario compilarlo per poterlo avviare.
 
