@@ -5,6 +5,8 @@
 
 Questa documentazione è realizzata tramite pagine in formato Markdown / ReStructuredText, compilate per mezzo del tool [Sphinx][1].
 
+MA SEI PROPRIO SICURO ???
+
 ## Creazione di nuove pagine
 
 Per creare nuove pagine è sufficiente
